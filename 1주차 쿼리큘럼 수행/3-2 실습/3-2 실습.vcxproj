@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fa09ae16-561a-4727-b4d8-913aa7ef1913}</ProjectGuid>
-    <RootNamespace>helloworld출력</RootNamespace>
+    <ProjectGuid>{3bc3555a-4278-41aa-84dc-c5a655d2a3ef}</ProjectGuid>
+    <RootNamespace>My32실습</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="hello world 출력.cpp" />
+    <ClCompile Include="3-2 실습.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
