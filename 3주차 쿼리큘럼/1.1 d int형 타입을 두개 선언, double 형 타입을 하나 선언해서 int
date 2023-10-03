@@ -1,3 +1,0 @@
-﻿  1.1 d.cpp
-D:\Project\3주차 쿼리큘럼\1.1 d int형 타입을 두개 선언, double 형 타입을 하나 선언해서 int = int + double 형식으로 저장 시 결과값이 어떻게 나오는지 코딩\1.1 d.cpp(10,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  1.1 d int형 타입을 두개 선언, double 형 타입을 하나 선언해서 int = int + double 형식으로 저장 시 결과값이 어떻게 나오는지 코딩.vcxproj -> D:\Project\3주차 쿼리큘럼\x64\Debug\1.1 d int형 타입을 두개 선언, double 형 타입을 하나 선언해서 int = int + double 형식으로 저장 시 결과값이 어떻게 나오는지 코딩.exe
